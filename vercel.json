@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://raw.githubusercontent.com/Emokui/Nothing/Zero/Shell/ssh.sh",
+      "permanent": true
+    }
+  ]
+}
